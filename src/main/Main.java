@@ -14,7 +14,7 @@ public class Main {
 				"Lorem ipsum " + "dolor sit amet, consectetur adipiscing elit.",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 						+ "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-				new Tags(new String[] { "gioia", "felicit‡" }));
+				new Tags(new String[] { "gioia", "felicit√†" }));
 		Articolo articolo2 = new ArticoloFantasy(0, "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", null,
 				"Lorem ipsum " + "dolor sit amet, consectetur adipiscing elit.",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
